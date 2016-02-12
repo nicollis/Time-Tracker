@@ -1,0 +1,46 @@
+.font-terminal {
+  font-family: 'Inconsolata', Monotype;
+}
+
+.ticket {
+  background: lightgray;
+}
+
+.btn-timer {
+  width: 200px;
+  height: 80px;
+  margin: 5px;
+}
+
+.subtitle {
+  margin: 5px 5px;
+}
+
+.timer {
+  font-size: 3.5em;
+}
+
+.time-row {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  margin-top: 5px;
+  width: 100%;
+  height: 50px;
+  font-size: 30px;
+}
+
+textarea {}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+.add-time {}
+
+body {
+  min-width: 400px;
+}
